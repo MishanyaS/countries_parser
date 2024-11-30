@@ -1,0 +1,11 @@
+# Python
+__pycache__/
+countries.db
+countries.xlsx
+/venv/
+
+# General
+.vscode/
+/photos/
+commands.txt
+requairements.txt
