@@ -2,6 +2,7 @@
 __pycache__/
 countries.db
 countries.xlsx
+countries.csv
 /venv/
 
 # General
