@@ -19,3 +19,8 @@ ___
 **Data saved to db file:**
 ![](https://github.com/MishanyaS/countries_parser/blob/main/photos/3.png?raw=true)
 
+___
+
+**Data saved to csv file:**
+![](https://github.com/MishanyaS/countries_parser/blob/main/photos/5.png?raw=true)
+
